@@ -1,10 +1,10 @@
 <div align="center">
-<img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/Bannerarcane2.jpg alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane" >
+<img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/Bannerarcane2.jpg alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane" >
 </div>
 
 <div style="display: inline-block;">
 <h2 align="center"> 
-  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações
+  <img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações
 </h2>
 </div>
 
@@ -14,14 +14,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px" />
   </p>
   <p>
-    <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
+    <img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
    </p>
 </div>
   
   <div align="center">
-  <a href="https://github.com/Thoomas806">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thoomas806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoomas806&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Tenshiiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tenshiiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
   
   <div align="center">
@@ -49,5 +49,5 @@
       </a>
   </div>
 <div>
-  <img src=https://github.com/Thoomas806/Thoomas806/blob/main/imagens/wallpaperflare.com_wallpaper.jpg width="100%" height="350px">
+  <img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/wallpaperflare.com_wallpaper.jpg width="100%" height="350px">
 </div>
