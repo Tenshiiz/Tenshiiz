@@ -1,92 +1,86 @@
-<h1 align="center">⟬ Carlos Eduardo ⟭</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=Front-End%20Developer&fontSize=30&fontColor=C071FE&animation=fadeIn&fontAlignY=25" width="100%" alt="Profile Header">
-</p>
-
-<p align="center">
-  <em>"A maior história já contada começa com uma linha de código."</em>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,21,24,30&section=header&text=SEU%20NOME&fontSize=60&fontColor=fff&fontAlignY=35&animation=fadeIn&desc=Front-End%20Developer&descSize=25&descAlignY=60">
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-C071FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-C071FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/Portfolio-C071FE?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
-  </a>
+  <div id="header">
+    <p><em>"Durante todo este tempo, havia alguém lendo este código. Provavelmente, eu era a única pessoa que sabia como esta história terminaria."</em></p>
+  </div>
+  
+  <div id="badges">
+    <a href="https://linkedin.com/in/seu-perfil">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/seu-usuario">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="mailto:seuemail@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square&color=9580FF" alt="Profile Views"/>
+  
+  <hr width="50%" style="height:2px; border-width:0; color:#9580FF; background-color:#9580FF">
 </div>
-
----
-
-## ⟬ 🌌 Sobre Mim ⟭
-
-🖥️ **Desenvolvedor Front-End**  
-📍 **Mundo Atual:** Criando interfaces incríveis e imersivas  
-📖 **História Favorita:** *Maneiras de Sobreviver no Desenvolvimento Web*  
-🚀 **Missão:** Criar experiências que transcendem a tela  
-
-> 📝 *"Se o código for um cenário, então eu sou o protagonista que dá vida a ele."*
-
----
-
-## ⟬ ⚔️ Tecnologias que Domino ⟭
 
 <div align="center">
-
-### 🌟 **Front-End**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ **Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="230"/>
 </div>
 
----
+## :star: Sobre Mim
 
-## ⟬ 🌠 Repositórios Destacados ⟭
+<img align="right" height="270px" alt="Coding Gif" src="https://media.giphy.com/media/3SL41WtN5l9DNg2x8t/giphy.gif" />
 
-📌 **Omniscient Reader's Hub** *(Um site temático para fãs da novel ORV)*  
-📌 **Chat em Tempo Real** *(Usando WebSockets para comunicação instantânea)*  
-📌 **Portfolio Interativo** *(Um projeto que reflete meu estilo e habilidades)*  
+```javascript
+class Developer {
+  constructor() {
+    this.name = "SEU NOME";
+    this.role = "Front-End Developer";
+    this.language = ["HTML", "CSS", "JavaScript"];
+    this.framework = ["React", "Next.js", "Tailwind CSS"];
+    this.architecture = ["Single-Page-Applications", "Static Websites"];
+    this.challenge = "Tornando-me um leitor onisciente de código";
+  }
+  
+  sayHi() {
+    return "Obrigado por visitar meu perfil!";
+  }
+}
 
-> ✨ *"Um desenvolvedor só se torna verdadeiramente onisciente quando vê seu código rodando perfeitamente."*
+const me = new Developer();
+console.log(me.sayHi());
+```
 
----
+## :constellation: Tecnologias & Ferramentas
 
-## ⟬ 📊 Estatísticas ⟭
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</div>
+
+## :book: Modos de Sobrevivência (Estatísticas)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="Github stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true" alt="Github streak" height="165">
 </div>
-
----
-
-## ⟬ 🎭 Entre em Contato ⟭
 
 <div align="center">
-
-📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-🐙 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-
-<p align="center">
-  <em>"Se você está lendo isso, então você é o protagonista da minha história de desenvolvimento web."</em>
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&hide_border=true" width="846">
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6A5ACD&height=100&animation=fadeIn" width="100%">
-</p>
+## :sparkles: Fábrica de Constelaçōes (Contribuiçōes)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,21,24,30&section=footer">
+</div>
