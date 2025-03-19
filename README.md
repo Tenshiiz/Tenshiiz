@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=Front-End%20Developer&fontSize=30&fontColor=C071FE&animation=fadeIn&fontAlignY=25" width="100%" alt="Profile Header">
 </p>
 
-<div align="center">
-  <img src="https://github.com/shavidze/shavidze/raw/main/omniscient-readers-viewpoint.gif" width="400" alt="Omniscient Reader's Viewpoint">
-</div>
-
 <p align="center">
   <em>"A maior história já contada começa com uma linha de código."</em>
 </p>
@@ -32,12 +28,6 @@
 
 <br>
 
-<div align="center">
-  
-  ![pixelart_dokja](https://github.com/IgorWeisss/IgorWeisss/assets/47366440/c3db48b9-e23f-404d-ab8d-2affa99f14e6)
-
-</div>
-
 ## ⟬ Habilidades Tecnológicas ⟭
 
 <div align="center">
@@ -59,11 +49,9 @@
 
 <br>
 
-<div align="center">
-  
-  <img src="https://i.imgur.com/HgurriR.gif" width="400" alt="Constellation">
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+</p>
 
 <br>
 
@@ -82,8 +70,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
-<div align="center">
-  <img src="https://i.imgur.com/PZcMbzN.png" width="500" alt="ORV Constellation">
 </div>
 
-</div>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6A5ACD&height=100&animation=fadeIn" width="100%">
+</p>
