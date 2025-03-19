@@ -1,53 +1,37 @@
 <div align="center">
-<img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/Bannerarcane2.jpg alt="banner da Jinx e Vi escrito: oi, eu sou carlos um estudante de front-end e um grande fã da série Arcane" >
-</div>
-
-<div style="display: inline-block;">
-<h2 align="center"> 
-  <img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/laptop.gif width="45px" height="45px">Minhas formações
-</h2>
-</div>
-
-<div>
-<p align="center" style="display: inline-block;"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px" />
+  <img src="assets/header.svg" width="100%" alt="Ways of Survival">
+  
+  <p align="center">
+    <em>"The supreme ruler of all stories, the oldest dream of humanity."</em>
   </p>
+  
+  <br>
+  
   <p>
-    <img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/hi-jinx.gif  width="150px" height="200px" alt="meu banner" align="right">
-   </p>
+    <a href="https://github.com/sponsors/YOURUSERNAME">
+      <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Sponsor">
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=181717" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/YOURUSERNAME/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn">
+    </a>
+  </p>
 </div>
-  
-  <div align="center">
-  <a href="https://github.com/Tenshiiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tenshiiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-  
-  <div align="center">
-  <h2>Redes Sociais</h2>
-    <p>
-      <a href="https://www.twitch.tv/lthoomas">
-        <img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white>
-      </a>
-      <a href="https://www.instagram.com/_carlws_/">
-        <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
-      </a>
-      <a href="mailto:cataclysm608@gmail.com">
-        <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-      </a>
-      <a href="https://www.linkedin.com/in/carlos-eduardo-vanziler-gomes-aa759b236/">
-        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
-      </a>
-    </p>
-  <h2>🎮 Games</h2>
-      <a href="https://www.riotgames.com/pt-br/quem-somos">
-        <img src=https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white>
-      </a>
-      <a href="https://www.blizzard.com/pt-br/company/about">
-        <img src=https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF>
-      </a>
-  </div>
-<div>
-  <img src=https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/wallpaperflare.com_wallpaper.jpg width="100%" height="350px">
+
+<br>
+
+<div align="center">
+  <img src="assets/constellation.svg" width="100%" alt="Constellation">
 </div>
+
+<br>
+
+## ⟬ About The Dokja ⟭
+
+```diff
++ A reader turned protagonist in this digital world
+- The only one who has read the novel to its end
+! Navigating through the scenarios of code and creation
+# Sharing fragments of knowledge across different streams
