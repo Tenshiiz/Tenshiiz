@@ -1,0 +1,116 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo com gradiente suave -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5f1e8;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#e8d5b7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d4c4a8;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Gradiente para a mesa -->
+    <linearGradient id="woodGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b4513;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#a0522d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b4513;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Gradiente para a tela do notebook -->
+    <linearGradient id="screenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d2d2d;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Filtro para sombra suave -->
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#8b4513" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+
+  <!-- Mesa de madeira -->
+  <ellipse cx="600" cy="280" rx="500" ry="20" fill="url(#woodGradient)" filter="url(#softShadow)"/>
+  <rect x="100" y="250" width="1000" height="50" rx="25" fill="url(#woodGradient)" filter="url(#softShadow)"/>
+
+  <!-- Notebook -->
+  <g transform="translate(450, 180)">
+    <!-- Base do notebook -->
+    <rect x="0" y="0" width="300" height="20" rx="5" fill="#2c2c2c" filter="url(#softShadow)"/>
+    <!-- Tela do notebook -->
+    <rect x="20" y="-80" width="260" height="80" rx="8" fill="url(#screenGradient)" stroke="#404040" stroke-width="2"/>
+    <!-- Conteúdo da tela -->
+    <text x="150" y="-35" text-anchor="middle" fill="#00ff88" font-family="monospace" font-size="16" font-weight="bold">Tenshi</text>
+    <text x="150" y="-15" text-anchor="middle" fill="#666" font-family="monospace" font-size="10">~/dev/workspace</text>
+    <!-- Hinge -->
+    <rect x="140" y="-5" width="20" height="5" rx="2" fill="#1a1a1a"/>
+  </g>
+
+  <!-- Caneca de café -->
+  <g transform="translate(200, 200)">
+    <!-- Base da caneca -->
+    <ellipse cx="0" cy="0" rx="25" ry="8" fill="#8b4513"/>
+    <!-- Corpo da caneca -->
+    <ellipse cx="0" cy="-25" rx="20" ry="25" fill="#d2691e"/>
+    <!-- Alça -->
+    <path d="M 15 -25 Q 25 -15 25 0 Q 25 10 15 5" fill="none" stroke="#8b4513" stroke-width="3"/>
+    <!-- Líquido -->
+    <ellipse cx="0" cy="-20" rx="15" ry="15" fill="#654321"/>
+    <!-- Fumaça -->
+    <path d="M -5 -40 Q -8 -50 -3 -55 Q 2 -50 5 -45 Q 8 -40 5 -35" fill="none" stroke="#f0f0f0" stroke-width="2" opacity="0.7"/>
+    <path d="M 0 -35 Q 3 -45 8 -50 Q 13 -45 10 -40" fill="none" stroke="#f0f0f0" stroke-width="2" opacity="0.5"/>
+  </g>
+
+  <!-- Plantas -->
+  <g transform="translate(900, 220)">
+    <!-- Vaso -->
+    <ellipse cx="0" cy="0" rx="20" ry="8" fill="#8b4513"/>
+    <rect x="-15" y="-30" width="30" height="30" rx="3" fill="#654321"/>
+    <!-- Folhas -->
+    <ellipse cx="-10" cy="-35" rx="8" ry="15" fill="#228b22" transform="rotate(-20)"/>
+    <ellipse cx="5" cy="-40" rx="6" ry="12" fill="#32cd32" transform="rotate(15)"/>
+    <ellipse cx="12" cy="-30" rx="7" ry="10" fill="#228b22" transform="rotate(30)"/>
+  </g>
+
+  <!-- Livros -->
+  <g transform="translate(350, 230)">
+    <!-- Livro 1 -->
+    <rect x="0" y="0" width="25" height="35" rx="2" fill="#8b4513"/>
+    <rect x="2" y="2" width="21" height="31" rx="1" fill="#daa520"/>
+    <!-- Livro 2 -->
+    <rect x="15" y="-5" width="20" height="30" rx="2" fill="#654321"/>
+    <rect x="17" y="-3" width="16" height="26" rx="1" fill="#f4a460"/>
+  </g>
+
+  <!-- Luz suave do abajur -->
+  <g transform="translate(100, 150)">
+    <!-- Base do abajur -->
+    <rect x="0" y="0" width="15" height="40" rx="7" fill="#8b4513"/>
+    <!-- Cúpula -->
+    <ellipse cx="7.5" cy="-20" rx="25" ry="20" fill="#fffacd" opacity="0.3"/>
+    <ellipse cx="7.5" cy="-20" rx="20" ry="15" fill="#fffacd" opacity="0.5"/>
+    <!-- Brilho -->
+    <circle cx="7.5" cy="-20" r="3" fill="#ffff00" opacity="0.8"/>
+  </g>
+
+  <!-- Janela com pôr do sol -->
+  <g transform="translate(1000, 50)">
+    <!-- Moldura da janela -->
+    <rect x="0" y="0" width="120" height="80" rx="5" fill="#8b4513" stroke="#654321" stroke-width="3"/>
+    <!-- Vidro -->
+    <rect x="5" y="5" width="110" height="70" rx="3" fill="#87ceeb" opacity="0.7"/>
+    <!-- Pôr do sol -->
+    <circle cx="60" cy="40" r="25" fill="#ff6347" opacity="0.6"/>
+    <circle cx="60" cy="40" r="20" fill="#ffa500" opacity="0.4"/>
+    <!-- Raios solares -->
+    <line x1="60" y1="15" x2="60" y2="25" stroke="#ffff00" stroke-width="2" opacity="0.5"/>
+    <line x1="85" y1="40" x2="95" y2="40" stroke="#ffff00" stroke-width="2" opacity="0.5"/>
+    <line x1="60" y1="65" x2="60" y2="75" stroke="#ffff00" stroke-width="2" opacity="0.5"/>
+    <line x1="25" y1="40" x2="35" y2="40" stroke="#ffff00" stroke-width="2" opacity="0.5"/>
+  </g>
+
+  <!-- Elementos decorativos sutis -->
+  <circle cx="150" cy="100" r="3" fill="#daa520" opacity="0.6"/>
+  <circle cx="1100" cy="120" r="2" fill="#daa520" opacity="0.4"/>
+  <circle cx="950" cy="80" r="4" fill="#daa520" opacity="0.5"/>
+</svg>
