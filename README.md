@@ -1,66 +1,68 @@
 <div align="center">
-  <img src="https://github.com/Tenshiiz/Tenshiiz/blob/main/imagens/Bannerarcane2.jpg" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/3d/bc/26/3dbc26c94d8b541a8700b7c1f5e40fbb.gif" alt="cozy banner" width="100%"/>
 </div>
 
 ---
 
-# 👋 Olá, eu sou o Tenshi (Carlos Eduardo)
+# 🌙 Bem-vindo ao meu cantinho no GitHub
 
-💻 Desenvolvedor Front-End em constante aprendizado.  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
-🚀 Apaixonado por criar interfaces bonitas e funcionais.  
-📍 Brasil  
+Olá! Eu sou o **Carlos Eduardo (Tenshi)** ✨  
+Sou desenvolvedor front-end e estudante de **Análise e Desenvolvimento de Sistemas**.  
+Gosto de criar interfaces acolhedoras, funcionais e que tragam uma boa experiência para quem usa.  
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
-
-</div>
+> ☕ Aqui você vai encontrar projetos que misturam **tecnologia, aprendizado e um toque pessoal**.  
+> 📖 Sempre aprendendo algo novo, um commit de cada vez.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🍂 Tecnologias que uso no dia a dia
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenshiiz&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Tenshiiz&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&theme=radical)
+![HTML5](https://img.shields.io/badge/HTML5-eab676?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-ffb347?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f6e58d?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-b2bec3?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-a29bfe?style=for-the-badge&logo=react&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-81ecec?style=for-the-badge&logo=tailwind-css&logoColor=000)
 
 </div>
 
 ---
 
-## 🌟 Projetos em Destaque
-
-- [📱 App de Organização de Vendas](https://github.com/Tenshiiz/): Aplicativo em React Native para controle de entrada e saída de produtos.  
-- [🌐 Clone do Discord Chat](https://github.com/Tenshiiz/): Projeto front-end integrando com Socket.io.  
-
----
-
-## 🎬 Um pouco de diversão
+## 📊 Minhas estatísticas
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenshiiz&show_icons=true&theme=calm&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&theme=calm&hide_border=true)
+
 </div>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 🌿 Um pouco sobre mim
+
+- 🎓 Estudante curioso e apaixonado por tecnologia.  
+- 🎨 Gosto de estética clean, cozy e minimalista.  
+- 📚 Leio, estudo e crio coisas para crescer um pouquinho todo dia.  
+- 🌍 Busco unir **tecnologia** e **conforto visual** nos meus projetos.  
+
+---
+
+## ✉️ Onde me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffeaa7?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/seu-linkedin/)
+[![Gmail](https://img.shields.io/badge/Email-fad390?style=for-the-badge&logo=gmail&logoColor=000)](mailto:seuemail@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/e95bda4e5f7505b40e040b6ff3f9a516/tumblr_pu5p6qYjLe1w3kpzjo1_500.gif" width="300" alt="cozy coding gif"/>
+  <br>
+  <sub><i>Um commit de cada vez, com calma 🍵</i></sub>
 </div>
