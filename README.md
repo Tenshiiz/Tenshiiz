@@ -110,8 +110,6 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 ## 📊 Estatísticas
 
-> ⚠️ Troque `Tenshiiz` pelo seu usuário real do GitHub em **todos** os links abaixo — sem isso, os cards não têm dados para exibir e aparecem quebrados.
-
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=Tenshiiz&show_icons=true&hide_border=true&bg_color=120E22&title_color=F4D58D&icon_color=C9A876&text_color=EAD9B5" />
@@ -143,57 +141,10 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 ## 📈 Trilha de Contribuições
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Tenshiiz/Tenshiiz/output/dist/dragon-dark.svg" width="100%"/>
+
 </div>
-
-<details>
-<summary><b>⚙️ Como ativar este grafo (configuração única, ~2 minutos)</b></summary>
-<br/>
-
-Esse gráfico é gerado por uma **GitHub Action self-hosted** — ela roda dentro do seu próprio repositório, então não depende de nenhum servidor externo (diferente do serviço antigo, que estava fora do ar). Para ativar:
-
-1. No seu repositório `Tenshiiz/Tenshiiz`, crie o arquivo `.github/workflows/dragon.yml` com o conteúdo abaixo.
-2. Vá em **Settings → Actions → General → Workflow permissions** e marque **"Read and write permissions"**.
-3. Rode o workflow uma vez manualmente na aba **Actions** (botão *Run workflow*).
-4. Pronto — a partir daí ele atualiza sozinho todo dia.
-
-```yaml
-name: dragon-graph
-
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Gerar grafo de contribuições
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/dragon.svg
-            dist/dragon-dark.svg?palette=github-dark&color_snake=%23F4D58D
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publicar no branch output
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          branch: output
-          commit_message: "Atualiza grafo de contribuições 🐉"
-          file_pattern: "dist/*.svg"
-          create_branch: true
-          push_options: "--force"
-```
-
-</details>
 
 <br/>
 
