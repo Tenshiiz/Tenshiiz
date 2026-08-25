@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&duration=3500&pause=1400&color=F4D58D&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Tenshi" alt="Título"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=2600&pause=900&color=C9A876&center=true&vCenter=true&width=680&lines=Viajante+entre+o+Front-end+e+a+Intelig%C3%AAncia+Artificial;Cada+commit%2C+uma+nova+p%C3%A1gina+desta+jornada;Em+busca+da+pr%C3%B3xima+Vis%C3%A3o%3A+o+c%C3%B3digo+elegante;Que+os+ventos+guiem+este+reposit%C3%B3rio" alt="Subtítulo"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=2600&pause=900&color=C9A876&center=true&vCenter=true&width=680&lines=Explorando+o+Front-end+e+a+Intelig%C3%AAncia+Artificial;Cada+commit%2C+uma+nova+p%C3%A1gina+desta+jornada;Em+busca+do+pr%C3%B3ximo+capitulo%3A+o+c%C3%B3digo+elegante;Que+os+ventos+guiem+este+reposit%C3%B3rio" alt="Subtítulo"/>
 
 <br/>
 
@@ -26,42 +26,29 @@
 
 <br/>
 
-## 🌙 Ficha do Personagem
+## Sobre mim
 
 <table>
 <tr>
-<td width="170" align="center" valign="top">
+<td width="150" align="center" valign="top">
 
-<img src="assets/companion.svg" width="140"/>
-<br/>
-<sub><i>companheiro de jornada</i></sub>
+<img src="assets/companion.svg" width="120"/>
 
 </td>
 <td valign="top">
 
-| | |
-|---|---|
-| **Nome** | Tenshi |
-| **Título** | Tecelão de Interfaces |
-| **Visão** | 🌿 Dendro &nbsp;+&nbsp; ⚡ Electro *(sabedoria + energia criativa)* |
-| **Arma** | Teclado mecânico, duas telas e café |
-| **Região natal** | Curitiba, Brasil 🇧🇷 |
-| **Constelação atual** | Nível 1 — *Primeiros Passos em IA* |
+Sou desenvolvedor com atuação ampla, mas o foco principal é **front-end** — interfaces bem construídas, com atenção a performance, acessibilidade e consistência visual. Atualmente estou expandindo para **Inteligência Artificial**, unindo experiência de produto com as ferramentas dessa nova fase da área.
+
+Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código bonito é aquele que respeita quem lê e quem usa.**
 
 </td>
 </tr>
 </table>
 
-> *"Todo Viajante começa sem saber para onde o vento vai soprar."*
-
-Assim como um Viajante que atravessa nações desconhecidas, minha jornada no desenvolvimento começou explorando o **front-end** — moldando interfaces, testando fricções, ajustando pixels até cada interação parecer natural. Hoje, uma nova região desponta no horizonte: a **Inteligência Artificial**. Ainda estou decifrando seus costumes e sua língua, mas sigo o mesmo princípio que me trouxe até aqui — **código bonito é aquele que respeita quem lê e quem usa.**
-
-**⚔️ Talentos**
-- **Ataque Normal — Construção de Interfaces:** HTML, CSS e JS bem estruturados, sem gambiarra.
-- **Habilidade Elemental — Design de Experiência:** atenção a microinterações, acessibilidade e consistência visual.
-- **Explosão Elemental — Mergulho em IA:** meu próximo grande objetivo, ainda em nível de treinamento (mas evoluindo rápido).
-
-> 🌿⚡ **Reação descoberta:** Dendro + Electro = *Sinapse Dourada* — quando lógica e criatividade se cruzam, a interface reage.
+**O que eu manjo bem**
+- **Construção de interfaces:** HTML, CSS e JS bem estruturados, sem gambiarra.
+- **Design de experiência:** microinterações, acessibilidade e consistência visual.
+- **Em desenvolvimento:** Inteligência Artificial aplicada a produto — meu próximo grande foco.
 
 <br/>
 
@@ -69,13 +56,13 @@ Assim como um Viajante que atravessa nações desconhecidas, minha jornada no de
 
 <br/>
 
-## 🗡️ Visões Elementais — Stack
+## 🛠️ Stack
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-**⚡ Electro — Interfaces Reativas**
+**⚡ Interfaces Reativas**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A5A2E?style=flat-square&logo=javascript&logoColor=F4D58D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8A5A2E?style=flat-square&logo=typescript&logoColor=F4D58D)
@@ -85,7 +72,7 @@ Assim como um Viajante que atravessa nações desconhecidas, minha jornada no de
 </td>
 <td align="center" width="50%">
 
-**💧 Hydro — Fluidez & Design**
+**💧 Fluidez & Design**
 
 ![HTML5](https://img.shields.io/badge/HTML5-8A5A2E?style=flat-square&logo=html5&logoColor=F4D58D)
 ![CSS3](https://img.shields.io/badge/CSS3-8A5A2E?style=flat-square&logo=css3&logoColor=F4D58D)
@@ -97,7 +84,7 @@ Assim como um Viajante que atravessa nações desconhecidas, minha jornada no de
 <tr>
 <td align="center" width="50%">
 
-**🌿 Dendro — Sabedoria & IA**
+**🌿 Sabedoria & IA**
 
 ![Python](https://img.shields.io/badge/Python-8A5A2E?style=flat-square&logo=python&logoColor=F4D58D)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8A5A2E?style=flat-square&logo=pytorch&logoColor=F4D58D)
@@ -105,7 +92,7 @@ Assim como um Viajante que atravessa nações desconhecidas, minha jornada no de
 </td>
 <td align="center" width="50%">
 
-**⛰️ Geo — Fundação & Infra**
+**⛰️ Fundação & Infra**
 
 ![Git](https://img.shields.io/badge/Git-8A5A2E?style=flat-square&logo=git&logoColor=F4D58D)
 ![Node.js](https://img.shields.io/badge/Node.js-8A5A2E?style=flat-square&logo=node.js&logoColor=F4D58D)
@@ -121,7 +108,7 @@ Assim como um Viajante que atravessa nações desconhecidas, minha jornada no de
 
 <br/>
 
-## 📜 Registros de Aventura — Estatísticas
+## 📊 Estatísticas
 
 > ⚠️ Troque `TENSHI-USERNAME` pelo seu usuário real do GitHub em **todos** os links abaixo — sem isso, os cards não têm dados para exibir e aparecem quebrados.
 
@@ -153,7 +140,7 @@ Assim como um Viajante que atravessa nações desconhecidas, minha jornada no de
 
 <br/>
 
-## 🐉 Trilha de Contribuições
+## 📈 Trilha de Contribuições
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/TENSHI-USERNAME/TENSHI-USERNAME/output/dist/dragon-dark.svg" width="100%"/>
@@ -212,7 +199,7 @@ jobs:
 
 <div align="center">
 
-### *"Que as estrelas iluminem seu caminho, viajante."*
+### *"Que as estrelas iluminem seu caminho."*
 
 <sub>Perfil atualizado com carinho ✦ obrigado pela visita</sub>
 
