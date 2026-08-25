@@ -30,25 +30,64 @@
 
 <table>
 <tr>
-<td width="150" align="center" valign="top">
+<td width="180" align="center" valign="middle">
 
-<img src="assets/companion.svg" width="120"/>
+<img src="assets/companion.svg" width="145"/>
 
 </td>
-<td valign="top">
 
-Sou desenvolvedor com atuação ampla, mas o foco principal é **front-end** — interfaces bem construídas, com atenção a performance, acessibilidade e consistência visual. Atualmente estou expandindo para **Inteligência Artificial**, unindo experiência de produto com as ferramentas dessa nova fase da área.
+<td width="40"></td>
 
-Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código bonito é aquele que respeita quem lê e quem usa.**
+<td valign="middle">
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho interesse em construir soluções que unam tecnologia, funcionalidade e uma boa experiência de uso. Minha atuação é voltada principalmente para **desenvolvimento front-end**, com experiência em construção de interfaces, aplicações web e integração entre diferentes tecnologias.
+
+Atualmente, estou ampliando minha atuação para **Inteligência Artificial**, buscando aplicar esses conhecimentos ao desenvolvimento de produtos e sistemas. Também possuo familiaridade com **bancos de dados, desenvolvimento de software e resolução de problemas técnicos**, mantendo uma abordagem prática e voltada à evolução constante.
 
 </td>
 </tr>
 </table>
 
-**O que eu manjo bem**
-- **Construção de interfaces:** HTML, CSS e JS bem estruturados, sem gambiarra.
-- **Design de experiência:** microinterações, acessibilidade e consistência visual.
-- **Em desenvolvimento:** Inteligência Artificial aplicada a produto — meu próximo grande foco.
+<br/>
+
+<div align="center">
+
+<img src="assets/genshin/paimon-pixel.gif" width="135"/>
+
+### ✦ Áreas de atuação ✦
+
+<br/>
+
+**⚡ Desenvolvimento Front-end**
+
+Construção de interfaces modernas, responsivas e consistentes utilizando  
+**HTML · CSS · JavaScript · React · TypeScript · Next.js**
+
+<br/>
+
+✦　✧　⋆　✦　✧　⋆　✦
+
+<br/>
+
+**🎨 Experiência & Design**
+
+Atenção a **acessibilidade, responsividade, microinterações e detalhes visuais**, buscando equilibrar estética e usabilidade.
+
+<br/>
+
+✦　⋆　✧　⋆　✦
+
+<br/>
+
+**🌿 Inteligência Artificial**
+
+Expandindo conhecimentos em **IA aplicada a produtos e soluções de software**, explorando novas formas de integrar inteligência às aplicações.
+
+<br/>
+
+✧　·　✦　·　✧　·　✦　·　✧
+
+</div>
 
 <br/>
 
@@ -58,49 +97,70 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 ## 🛠️ Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="middle">
 
-**⚡ Interfaces Reativas**
+### ⚡ Interfaces Reativas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-8A5A2E?style=flat-square&logo=javascript&logoColor=F4D58D)
-![TypeScript](https://img.shields.io/badge/TypeScript-8A5A2E?style=flat-square&logo=typescript&logoColor=F4D58D)
-![React](https://img.shields.io/badge/React-8A5A2E?style=flat-square&logo=react&logoColor=F4D58D)
-![Next.js](https://img.shields.io/badge/Next.js-8A5A2E?style=flat-square&logo=next.js&logoColor=F4D58D)
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-8A5A2E?style=for-the-badge&logo=javascript&logoColor=F4D58D)
+![TypeScript](https://img.shields.io/badge/TypeScript-8A5A2E?style=for-the-badge&logo=typescript&logoColor=F4D58D)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-8A5A2E?style=for-the-badge&logo=react&logoColor=F4D58D)
+![Next.js](https://img.shields.io/badge/Next.js-8A5A2E?style=for-the-badge&logo=next.js&logoColor=F4D58D)
 
 </td>
-<td align="center" width="50%">
 
-**💧 Fluidez & Design**
+<td align="center" width="50%" valign="middle">
 
-![HTML5](https://img.shields.io/badge/HTML5-8A5A2E?style=flat-square&logo=html5&logoColor=F4D58D)
-![CSS3](https://img.shields.io/badge/CSS3-8A5A2E?style=flat-square&logo=css3&logoColor=F4D58D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-8A5A2E?style=flat-square&logo=tailwindcss&logoColor=F4D58D)
-![Figma](https://img.shields.io/badge/Figma-8A5A2E?style=flat-square&logo=figma&logoColor=F4D58D)
+### 💧 Fluidez & Design
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-8A5A2E?style=for-the-badge&logo=html5&logoColor=F4D58D)
+![CSS3](https://img.shields.io/badge/CSS3-8A5A2E?style=for-the-badge&logo=css3&logoColor=F4D58D)
+
+<br/>
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-8A5A2E?style=for-the-badge&logo=tailwindcss&logoColor=F4D58D)
+![Figma](https://img.shields.io/badge/Figma-8A5A2E?style=for-the-badge&logo=figma&logoColor=F4D58D)
 
 </td>
 </tr>
+
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="middle">
 
-**🌿 Sabedoria & IA**
+### 🌿 Sabedoria & IA
 
-![Python](https://img.shields.io/badge/Python-8A5A2E?style=flat-square&logo=python&logoColor=F4D58D)
-![PyTorch](https://img.shields.io/badge/PyTorch-8A5A2E?style=flat-square&logo=pytorch&logoColor=F4D58D)
+<br/>
+
+![Python](https://img.shields.io/badge/Python-8A5A2E?style=for-the-badge&logo=python&logoColor=F4D58D)
+![FastAPI](https://img.shields.io/badge/FastAPI-8A5A2E?style=for-the-badge&logo=fastapi&logoColor=F4D58D)
 
 </td>
-<td align="center" width="50%">
 
-**⛰️ Fundação & Infra**
+<td align="center" width="50%" valign="middle">
 
-![Git](https://img.shields.io/badge/Git-8A5A2E?style=flat-square&logo=git&logoColor=F4D58D)
-![Node.js](https://img.shields.io/badge/Node.js-8A5A2E?style=flat-square&logo=node.js&logoColor=F4D58D)
-![Vercel](https://img.shields.io/badge/Vercel-8A5A2E?style=flat-square&logo=vercel&logoColor=F4D58D)
+### ⛰️ Fundação & Infra
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-8A5A2E?style=for-the-badge&logo=git&logoColor=F4D58D)
+![Node.js](https://img.shields.io/badge/Node.js-8A5A2E?style=for-the-badge&logo=node.js&logoColor=F4D58D)
+![Vercel](https://img.shields.io/badge/Vercel-8A5A2E?style=for-the-badge&logo=vercel&logoColor=F4D58D)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -112,12 +172,23 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Tenshiiz&show_icons=true&hide_border=true&bg_color=120E22&title_color=F4D58D&icon_color=C9A876&text_color=EAD9B5" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+<table>
+<tr>
 
-<br/>
+<td align="center" valign="middle" width="50%">
 
-<img src="https://streak-stats.demolab.com?user=Tenshiiz&hide_border=true&background=120E22&ring=F4D58D&fire=E8B34E&currStreakLabel=F4D58D" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Tenshiiz&show_icons=true&hide_border=true&bg_color=120E22&title_color=F4D58D&icon_color=F4D58D&text_color=EAD9B5" />
+
+</td>
+
+<td align="center" valign="middle" width="50%">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -127,8 +198,51 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 <div align="center">
 
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Tenshiiz&repo=REPO-DESTAQUE-1&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Tenshiiz&repo=REPO-DESTAQUE-2&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+<!-- PORTFOLIO -->
+<div>
+
+<sub>╔══════════════════════════════╗</sub><br>
+### ✦ Portfolio
+
+<img src="https://img.shields.io/badge/Next.js-3C2A5E?style=for-the-badge&logo=next.js&logoColor=F4D58D"/>
+<img src="https://img.shields.io/badge/React-3C2A5E?style=for-the-badge&logo=react&logoColor=F4D58D"/>
+<img src="https://img.shields.io/badge/TypeScript-3C2A5E?style=for-the-badge&logo=typescript&logoColor=F4D58D"/>
+
+<br/>
+
+<a href="https://github.com/Tenshiiz/Portfolio">
+  <img src="https://img.shields.io/badge/✦%20VER%20PROJETO-8A5A2E?style=for-the-badge&logo=github&logoColor=F4D58D"/>
+</a>
+
+<br/>
+
+<sub>╚══════════════════════════════╝</sub>
+
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- YOUTUBE CLONE -->
+<div>
+
+<sub>╔══════════════════════════════╗</sub><br>
+### ✦ YouTube Clone
+
+<img src="https://img.shields.io/badge/React-3C2A5E?style=for-the-badge&logo=react&logoColor=F4D58D"/>
+<img src="https://img.shields.io/badge/JavaScript-3C2A5E?style=for-the-badge&logo=javascript&logoColor=F4D58D"/>
+<img src="https://img.shields.io/badge/CSS-3C2A5E?style=for-the-badge&logo=css3&logoColor=F4D58D"/>
+
+<br/>
+
+<a href="https://github.com/Tenshiiz/Youtube-clone">
+  <img src="https://img.shields.io/badge/✦%20VER%20PROJETO-8A5A2E?style=for-the-badge&logo=github&logoColor=F4D58D"/>
+</a>
+
+<br/>
+
+<sub>╚══════════════════════════════╝</sub>
+
+</div>
 
 </div>
 
