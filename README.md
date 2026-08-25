@@ -1,104 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ol%C3%A1,%20eu%20sou%20%5BTenshi%20%5D&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer%20%7C%C2%A0Rumo%20%C3%A0%20IA&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150e2e,35:3c2a5e,70:8a5a2e,100:e8b34e&height=230&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&duration=3500&pause=1400&color=F4D58D&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Tenshi" alt="Título"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=2600&pause=900&color=C9A876&center=true&vCenter=true&width=680&lines=Viajante+entre+o+Front-end+e+a+Intelig%C3%AAncia+Artificial;Cada+commit%2C+uma+nova+p%C3%A1gina+desta+jornada;Em+busca+da+pr%C3%B3xima+Vis%C3%A3o%3A+o+c%C3%B3digo+elegante;Que+os+ventos+guiem+este+reposit%C3%B3rio" alt="Subtítulo"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=B39DDB&center=true&vCenter=true&width=650&lines=Construindo+interfaces+com+precis%C3%A3o+e+alma;Apaixonado+por+design+de+sistemas;Explorando+o+universo+da+Intelig%C3%AAncia+Artificial;Sempre+aprendendo%2C+sempre+refinando." alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/carloseduardo2003" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8A5A2E?style=for-the-badge&logo=linkedin&logoColor=F4D58D" />
 </a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.instagram.com/_carlws_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-8A5A2E?style=for-the-badge&logo=instagram&logoColor=F4D58D" />
 </a>
-<a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://SEU-PORTFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-141414?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://ceportfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-8A5A2E?style=for-the-badge&logo=vercel&logoColor=F4D58D" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 <br/>
 
-## 🪞 Sobre mim
+## 🌙 Ficha do Personagem
 
-```ts
-const desenvolvedor = {
-  nome: "[Seu Nome]",
-  localizacao: "Curitiba, Brasil 🇧🇷",
-  foco: ["Front-end Development", "UI Engineering", "Inteligência Artificial"],
-  filosofia: "Código bonito é código que respeita quem lê — e quem usa.",
-  aprendendoAgora: ["IA aplicada a produtos", "Arquitetura de front-end escalável"],
-  curiosidade: "Acredito que interface bem feita é a fronteira entre engenharia e arte."
-};
-```
+<table>
+<tr>
+<td width="170" align="center" valign="top">
 
-Sou desenvolvedor com atuação ampla, mas o coração mora no **front-end**: interfaces refinadas, performáticas e com atenção obsessiva ao detalhe. Estou expandindo horizonte para **Inteligência Artificial**, unindo boa engenharia de produto com a próxima geração de ferramentas inteligentes.
+<img src="assets/companion.svg" width="140"/>
+<br/>
+<sub><i>companheiro de jornada</i></sub>
+
+</td>
+<td valign="top">
+
+| | |
+|---|---|
+| **Nome** | Tenshi |
+| **Título** | Tecelão de Interfaces |
+| **Visão** | 🌿 Dendro &nbsp;+&nbsp; ⚡ Electro *(sabedoria + energia criativa)* |
+| **Arma** | Teclado mecânico, duas telas e café |
+| **Região natal** | Curitiba, Brasil 🇧🇷 |
+| **Constelação atual** | Nível 1 — *Primeiros Passos em IA* |
+
+</td>
+</tr>
+</table>
+
+> *"Todo Viajante começa sem saber para onde o vento vai soprar."*
+
+Assim como um Viajante que atravessa nações desconhecidas, minha jornada no desenvolvimento começou explorando o **front-end** — moldando interfaces, testando fricções, ajustando pixels até cada interação parecer natural. Hoje, uma nova região desponta no horizonte: a **Inteligência Artificial**. Ainda estou decifrando seus costumes e sua língua, mas sigo o mesmo princípio que me trouxe até aqui — **código bonito é aquele que respeita quem lê e quem usa.**
+
+**⚔️ Talentos**
+- **Ataque Normal — Construção de Interfaces:** HTML, CSS e JS bem estruturados, sem gambiarra.
+- **Habilidade Elemental — Design de Experiência:** atenção a microinterações, acessibilidade e consistência visual.
+- **Explosão Elemental — Mergulho em IA:** meu próximo grande objetivo, ainda em nível de treinamento (mas evoluindo rápido).
+
+> 🌿⚡ **Reação descoberta:** Dendro + Electro = *Sinapse Dourada* — quando lógica e criatividade se cruzam, a interface reage.
 
 <br/>
 
-## 🛠️ Stack & Ferramentas
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+<br/>
+
+## 🗡️ Visões Elementais — Stack
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⚡ Electro — Interfaces Reativas**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-8A5A2E?style=flat-square&logo=javascript&logoColor=F4D58D)
+![TypeScript](https://img.shields.io/badge/TypeScript-8A5A2E?style=flat-square&logo=typescript&logoColor=F4D58D)
+![React](https://img.shields.io/badge/React-8A5A2E?style=flat-square&logo=react&logoColor=F4D58D)
+![Next.js](https://img.shields.io/badge/Next.js-8A5A2E?style=flat-square&logo=next.js&logoColor=F4D58D)
+
+</td>
+<td align="center" width="50%">
+
+**💧 Hydro — Fluidez & Design**
+
+![HTML5](https://img.shields.io/badge/HTML5-8A5A2E?style=flat-square&logo=html5&logoColor=F4D58D)
+![CSS3](https://img.shields.io/badge/CSS3-8A5A2E?style=flat-square&logo=css3&logoColor=F4D58D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-8A5A2E?style=flat-square&logo=tailwindcss&logoColor=F4D58D)
+![Figma](https://img.shields.io/badge/Figma-8A5A2E?style=flat-square&logo=figma&logoColor=F4D58D)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🌿 Dendro — Sabedoria & IA**
+
+![Python](https://img.shields.io/badge/Python-8A5A2E?style=flat-square&logo=python&logoColor=F4D58D)
+![PyTorch](https://img.shields.io/badge/PyTorch-8A5A2E?style=flat-square&logo=pytorch&logoColor=F4D58D)
+
+</td>
+<td align="center" width="50%">
+
+**⛰️ Geo — Fundação & Infra**
+
+![Git](https://img.shields.io/badge/Git-8A5A2E?style=flat-square&logo=git&logoColor=F4D58D)
+![Node.js](https://img.shields.io/badge/Node.js-8A5A2E?style=flat-square&logo=node.js&logoColor=F4D58D)
+![Vercel](https://img.shields.io/badge/Vercel-8A5A2E?style=flat-square&logo=vercel&logoColor=F4D58D)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+<br/>
+
+## 📜 Registros de Aventura — Estatísticas
+
+> ⚠️ Troque `TENSHI-USERNAME` pelo seu usuário real do GitHub em **todos** os links abaixo — sem isso, os cards não têm dados para exibir e aparecem quebrados.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,git,github,vscode,vercel,python,pytorch&theme=dark" />
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📌 Ver stack detalhada por categoria</b></summary>
-<br/>
-
-**Front-end**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Design & Produto**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Back-end & Infra**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Explorando: IA**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</details>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=TENSHI-USERNAME&show_icons=true&hide_border=true&bg_color=120E22&title_color=F4D58D&icon_color=C9A876&text_color=EAD9B5" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TENSHI-USERNAME&layout=compact&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B39DDB&icon_color=B39DDB&text_color=c9d1d9" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B39DDB&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" />
+<img src="https://streak-stats.demolab.com?user=TENSHI-USERNAME&hide_border=true&background=120E22&ring=F4D58D&fire=E8B34E&currStreakLabel=F4D58D" />
 
 </div>
 
@@ -108,35 +142,80 @@ Sou desenvolvedor com atuação ampla, mas o coração mora no **front-end**: in
 
 <div align="center">
 
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B39DDB&text_color=c9d1d9" />
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B39DDB&text_color=c9d1d9" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=TENSHI-USERNAME&repo=REPO-DESTAQUE-1&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=TENSHI-USERNAME&repo=REPO-DESTAQUE-2&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 <br/>
 
-## 🌌 Atividade recente
-
-<!--START_SECTION:activity-->
-<!-- Este bloco é preenchido automaticamente pela GitHub Action "github-readme-activity-graph" — veja instruções abaixo -->
-<!--END_SECTION:activity-->
+## 🐉 Trilha de Contribuições
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=B39DDB&line=B39DDB&point=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/TENSHI-USERNAME/TENSHI-USERNAME/output/dist/dragon-dark.svg" width="100%"/>
 </div>
 
+<details>
+<summary><b>⚙️ Como ativar este grafo (configuração única, ~2 minutos)</b></summary>
+<br/>
+
+Esse gráfico é gerado por uma **GitHub Action self-hosted** — ela roda dentro do seu próprio repositório, então não depende de nenhum servidor externo (diferente do serviço antigo, que estava fora do ar). Para ativar:
+
+1. No seu repositório `TENSHI-USERNAME/TENSHI-USERNAME`, crie o arquivo `.github/workflows/dragon.yml` com o conteúdo abaixo.
+2. Vá em **Settings → Actions → General → Workflow permissions** e marque **"Read and write permissions"**.
+3. Rode o workflow uma vez manualmente na aba **Actions** (botão *Run workflow*).
+4. Pronto — a partir daí ele atualiza sozinho todo dia.
+
+```yaml
+name: dragon-graph
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar grafo de contribuições
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/dragon.svg
+            dist/dragon-dark.svg?palette=github-dark&color_snake=%23F4D58D
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar no branch output
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: output
+          commit_message: "Atualiza grafo de contribuições 🐉"
+          file_pattern: "dist/*.svg"
+          create_branch: true
+          push_options: "--force"
+```
+
+</details>
+
 <br/>
 
 <div align="center">
 
-### "A simplicidade é o último grau de sofisticação."
+### *"Que as estrelas iluminem seu caminho, viajante."*
 
 <sub>Perfil atualizado com carinho ✦ obrigado pela visita</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8b34e,35:8a5a2e,65:3c2a5e,100:150e2e&height=130&section=footer" width="100%"/>
 
 </div>
