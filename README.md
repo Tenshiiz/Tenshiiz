@@ -110,16 +110,16 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 ## 📊 Estatísticas
 
-> ⚠️ Troque `TENSHI-USERNAME` pelo seu usuário real do GitHub em **todos** os links abaixo — sem isso, os cards não têm dados para exibir e aparecem quebrados.
+> ⚠️ Troque `Tenshiiz` pelo seu usuário real do GitHub em **todos** os links abaixo — sem isso, os cards não têm dados para exibir e aparecem quebrados.
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=TENSHI-USERNAME&show_icons=true&hide_border=true&bg_color=120E22&title_color=F4D58D&icon_color=C9A876&text_color=EAD9B5" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TENSHI-USERNAME&layout=compact&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Tenshiiz&show_icons=true&hide_border=true&bg_color=120E22&title_color=F4D58D&icon_color=C9A876&text_color=EAD9B5" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tenshiiz&layout=compact&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TENSHI-USERNAME&hide_border=true&background=120E22&ring=F4D58D&fire=E8B34E&currStreakLabel=F4D58D" />
+<img src="https://streak-stats.demolab.com?user=Tenshiiz&hide_border=true&background=120E22&ring=F4D58D&fire=E8B34E&currStreakLabel=F4D58D" />
 
 </div>
 
@@ -129,8 +129,8 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 <div align="center">
 
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=TENSHI-USERNAME&repo=REPO-DESTAQUE-1&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=TENSHI-USERNAME&repo=REPO-DESTAQUE-2&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Tenshiiz&repo=REPO-DESTAQUE-1&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=Tenshiiz&repo=REPO-DESTAQUE-2&hide_border=true&bg_color=120E22&title_color=F4D58D&text_color=EAD9B5" />
 
 </div>
 
@@ -143,7 +143,7 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 ## 📈 Trilha de Contribuições
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TENSHI-USERNAME/TENSHI-USERNAME/output/dist/dragon-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tenshiiz/Tenshiiz/output/dist/dragon-dark.svg" width="100%"/>
 </div>
 
 <details>
@@ -152,7 +152,7 @@ Baseado em Curitiba, Brasil 🇧🇷. Sigo um princípio simples: **código boni
 
 Esse gráfico é gerado por uma **GitHub Action self-hosted** — ela roda dentro do seu próprio repositório, então não depende de nenhum servidor externo (diferente do serviço antigo, que estava fora do ar). Para ativar:
 
-1. No seu repositório `TENSHI-USERNAME/TENSHI-USERNAME`, crie o arquivo `.github/workflows/dragon.yml` com o conteúdo abaixo.
+1. No seu repositório `Tenshiiz/Tenshiiz`, crie o arquivo `.github/workflows/dragon.yml` com o conteúdo abaixo.
 2. Vá em **Settings → Actions → General → Workflow permissions** e marque **"Read and write permissions"**.
 3. Rode o workflow uma vez manualmente na aba **Actions** (botão *Run workflow*).
 4. Pronto — a partir daí ele atualiza sozinho todo dia.
