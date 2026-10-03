@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/carloseduardo2003" target="_blank">
+<a href="https://linkedin.com/in/carlos-vanziler" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8A5A2E?style=for-the-badge&logo=linkedin&logoColor=F4D58D" alt="LinkedIn"/>
 </a>
 &nbsp;
